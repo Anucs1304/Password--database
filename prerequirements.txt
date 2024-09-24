@@ -1,0 +1,4 @@
+--install pip 
+--install bcrypt using pip
+--install pymongo
+--install mongoDB
